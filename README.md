@@ -20,6 +20,7 @@ O desconto aplicado é definido de acordo com o valor total da compra:
 
 O programa utiliza as seguintes condições para determinar o desconto:
 
+```python
 if valor_total < 200: #desconto de 5% para compras abaixo de R$ 200,00 
     print("O desconto nesta compra é de 5%") 
     desconto = valor_total * 0.05 
