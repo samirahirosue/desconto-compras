@@ -35,6 +35,7 @@ else: #desconto de 15% para compras de R$ 300,00 ou mais
     print("O desconto nesta compra é de 15%")  
     desconto = valor_total * 0.15 
     valor_desconto = valor_total - desconto 
+```
 
 ## 💻 Exemplo de execução
 
