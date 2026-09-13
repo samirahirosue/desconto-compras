@@ -38,7 +38,6 @@ else: #desconto de 15% para compras de R$ 300,00 ou mais
 
 ## 💻 Exemplo de execução
 
-```text
 Bem-vindo ao sistema de desconto progressivo!
 
 Informe o valor total da compra: 250
